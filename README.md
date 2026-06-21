@@ -44,7 +44,6 @@ PDF → Text Extraction → Chunking → Embeddings → Vector Search → AI Res
 - Groq API
 - HuggingFace Embeddings
 
----
 
 ## 📂 Project Structure
 
@@ -68,7 +67,7 @@ RAGFusion-AI/
 ```
 
 
----
+
 
 ## ⚙️ Installation
 
@@ -108,12 +107,12 @@ Relevant Context Retrieval
      ↓
 LLM Response
 
----
+
 🎯 Purpose
 
 This project was built to understand how modern AI assistants work internally using Retrieval-Augmented Generation and how LLM backends can be switched between cloud and local environments.
 
----
+
 👨‍💻 Author
 
 Mohammed Kupe
