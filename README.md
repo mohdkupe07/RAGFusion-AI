@@ -69,7 +69,7 @@ RAGFusion-AI/
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone Repository
+### Clone Repository
 
 ```bash
 git clone <repository-url>
@@ -77,17 +77,13 @@ git clone <repository-url>
 cd RAGFusion-AI
 ```
 
----
-
-### 2. Create Virtual Environment
+### Create Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
----
-
-### 3. Activate Virtual Environment
+### Activate Virtual Environment
 
 **Windows:**
 
@@ -95,9 +91,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
----
-
-### 4. Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -112,7 +106,7 @@ PDF Upload
      ↓
 Text Extraction
      ↓
-Text Chunking
+Chunking
      ↓
 Embedding Generation
      ↓
@@ -127,7 +121,7 @@ LLM Response
 
 ## 🎯 Purpose
 
-This project was built to understand how modern AI assistants work internally using **Retrieval-Augmented Generation (RAG)** and how LLM backends can be switched between cloud-based and local environments.
+This project was built to understand how modern AI assistants work internally using **Retrieval-Augmented Generation (RAG)** and how LLM backends can be switched between cloud and local environments.
 
 ---
 
