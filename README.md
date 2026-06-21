@@ -47,19 +47,25 @@ PDF → Text Extraction → Chunking → Embeddings → Vector Search → AI Res
 ---
 
 ## 📂 Project Structure
+
+```text
 RAGFusion-AI/
 │
+├── .devcontainer/
+│   └── Development environment configuration
+│
+├── .git/
+│   └── Git repository files
+│
 ├── app.py
-│ └── Offline RAG chatbot using Ollama
+│   └── Offline RAG chatbot using Ollama
 │
 ├── app_online.py
-│ └── Online RAG chatbot using Groq API
+│   └── Cloud RAG chatbot using Groq API
 │
-├── requirements.txt
-│ └── Python dependencies
-│
-└── .devcontainer/
-└── Development environment setup
+└── requirements.txt
+    └── Required Python dependencies
+```
 
 
 ---
